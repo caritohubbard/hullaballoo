@@ -1,0 +1,19 @@
+#navbar {
+    background-color: #312426;
+  }
+  
+  #navbar a {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px;
+    margin-right: 20px;
+    color:white;
+  }
+  #navbar img {
+    width: 250px;
+    height: 150px;
+    margin-right: 20px;
+  }
+
+  #body{
+    background-color: #C1A999;
+  }
